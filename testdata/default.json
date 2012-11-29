@@ -1,0 +1,17 @@
+{
+ "project": {"name": "The big project"},
+ "developers": [
+  {
+   "lastName": "Pascal",
+   "name": "Leclerq"
+  },
+  {
+   "lastName": "Angelo",
+   "name": "Zerr"
+  },
+  {
+   "lastName": "Silvio",
+   "name": "Tomatis"
+  }
+ ]
+}
