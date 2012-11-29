@@ -2,16 +2,16 @@
  "project": {"name": "The big project"},
  "developers": [
   {
-   "lastName": "Pascal",
-   "name": "Leclercq"
+   "lastName": "Leclercq",
+   "name": "Pascal"
   },
   {
-   "lastName": "Angelo",
-   "name": "Zerr"
+   "lastName": "Zerr",
+   "name": "Angelo"
   },
   {
-   "lastName": "Silvio",
-   "name": "Tomatis"
+   "lastName": "Tomatis",
+   "name": "Silvio"
   }
  ]
 }
